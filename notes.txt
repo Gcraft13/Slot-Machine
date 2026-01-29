@@ -1,0 +1,2 @@
+Breaking down Slot Machine project into smaller components
+1. How much many does the user have? Deposit money
